@@ -7,9 +7,11 @@ Automotive_Door_Control_System_Dynamic_Design.pdf
 
 
 ##Static Design Video recording:
+
 https://drive.google.com/file/d/1QwbcN2hnCY_u52RENcnQ7tfBuwmiIh7Q/view?usp=share_link
 
 ##Dynamic Design video Recording:
+
 https://drive.google.com/file/d/1tMXn082bx8c6V1IBYFOV82u1zGtYmSV5/view?usp=share_link
 
 
