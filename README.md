@@ -1,9 +1,17 @@
 # EG-FWD_Automotive_door_control
 Automotive Door Control System Design for assignment no. 3 for EG-FWD Embedded system design course 
 ## Report files:
-Automotive_Door_Control_System_Static_Design.pdf
+"Automotive_Door_Control_System_Static_Design.pdf"
 
-Automotive_Door_Control_System_Dynamic_Design.pdf
+"Automotive_Door_Control_System_Dynamic_Design.pdf" 
+
+####### which contains CPU load for ECU 1, Ecu 2, and CAN Bus load on pages 4,5 also for both ECU 1, 2 Dynamic Design from page 6 to page 16.
+
+"Dynamic_Design/Complete_System_Dynamic_Design.pdf"
+
+####### which contains ECU 1, Ecu 2 Complete system Dynamic Design (State Machine, and Sequence Diagram"
+
+
 
 
 ## Static Design Video recording:
